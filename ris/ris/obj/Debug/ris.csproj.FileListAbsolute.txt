@@ -1,0 +1,10 @@
+D:\nikita\C#\ris\ris\bin\Debug\ris.exe.config
+D:\nikita\C#\ris\ris\bin\Debug\ris.exe
+D:\nikita\C#\ris\ris\bin\Debug\ris.pdb
+D:\nikita\C#\ris\ris\obj\Debug\ris.csprojAssemblyReference.cache
+D:\nikita\C#\ris\ris\obj\Debug\ris.Form1.resources
+D:\nikita\C#\ris\ris\obj\Debug\ris.Properties.Resources.resources
+D:\nikita\C#\ris\ris\obj\Debug\ris.csproj.GenerateResource.cache
+D:\nikita\C#\ris\ris\obj\Debug\ris.csproj.CoreCompileInputs.cache
+D:\nikita\C#\ris\ris\obj\Debug\ris.exe
+D:\nikita\C#\ris\ris\obj\Debug\ris.pdb
